@@ -1,0 +1,6 @@
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+G:\Practicle_TEST_FCC\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
